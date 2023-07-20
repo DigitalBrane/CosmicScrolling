@@ -24,7 +24,7 @@ const initSmoothScrolling = () => {
 	// Start the animation frame loop
 	requestAnimationFrame(scrollFn);
 };
-
+/*
 // Start preloading fonts
 preloadFonts('qsy7khk').then(() => {
     // Once fonts are loaded, remove the 'loading' class from the body, ending the loading state
@@ -36,3 +36,4 @@ preloadFonts('qsy7khk').then(() => {
 		new Item(element);
 	});
 });
+*/
