@@ -1,6 +1,6 @@
 // Import necessary functions and classes
-import { preloadFonts } from './utils.js';
-import { Item } from './item.js';
+import { preloadFonts } from 'https://raw.githack.com/DigitalBrane/CosmicScrolling/main/js/utils.js';
+import { Item } from 'https://raw.githack.com/DigitalBrane/CosmicScrolling/main/js/item.js';
 
 // Define a variable to store Lenis smooth scrolling object
 let lenis;
