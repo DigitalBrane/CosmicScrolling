@@ -52,13 +52,13 @@ const preloadFonts = (id) => {
         });
     });
 };
-
+/*
 export {
     preloadFonts
 };
-
+*/
 /* item */
-export class Item {
+class Item {
     // Initialize DOM and style related properties
     // Various elements within this item
     DOM = {
