@@ -1,5 +1,5 @@
 // Import necessary functions and classes
-import { preloadFonts } from './utils.js';
+//import { preloadFonts } from './utils.js';
 import { Item } from './item.js';
 
 // Define a variable to store Lenis smooth scrolling object
