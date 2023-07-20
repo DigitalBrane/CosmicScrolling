@@ -1,29 +1,4 @@
-*,
-*::after,
-*::before {
-	box-sizing: border-box;
-}
 
-:root {
-	font-size: 16px;
-	--color-text: #fff;
-	--color-bg: #000;
-	--color-bg-alt: hsl(15deg 55% 6%);
-	--color-link: rgba(255,255,255,0.5);
-	--color-link-hover: #fff;
-	--color-title: #e93f33;
-}
-
-body {
-	margin: 0;
-	color: var(--color-text);
-	background-color: var(--color-bg);
-	font-family: "tenon", sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	margin-bottom: 50vh;
-	overflow-x: hidden;
-}
 
 /* Page Loader */
 .js .loading::before,
